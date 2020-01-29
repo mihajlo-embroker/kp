@@ -1,0 +1,14 @@
+{
+  "name": "kp-tracker",
+  "version": "1.0.0",
+  "description": "Kupujem prodajem tracker",
+  "main": "app.js",
+  "author": "Mihajlo Supic",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  },
+  "scripts": {
+    "run": "node app.js"
+  }
+}
