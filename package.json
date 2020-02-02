@@ -9,6 +9,6 @@
     "puppeteer": "^2.0.0"
   },
   "scripts": {
-    "run": "node app.js"
+    "start": "node app.js"
   }
 }
